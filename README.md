@@ -38,6 +38,8 @@ Mayur Samnani (Jodhpur)
 
 Prarthana Kandwal(Noida)
 
+Palak Baghla (Igdtuw, Delhi)
+
 Samaksh Tak(Udaipur)
 
 Ujjwal (Delhi)
