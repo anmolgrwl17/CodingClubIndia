@@ -38,6 +38,8 @@ Mayur Samnani (Jodhpur)
 
 Prarthana Kandwal(Noida)
 
+Palak Baghla (Igdtuw, Delhi)
+
 Samaksh Tak(Udaipur)
 
 Ujjwal (Delhi)
@@ -88,4 +90,11 @@ Nishant Kumar (Jharkhand)
 Prashant Sharma (DTU, delhi)
 
 
+
 Anikash Chakraborty(DTU,Delhi)
+
+
+Vandit Khurana (Haryana)
+
+
+Ananthu Ajay
