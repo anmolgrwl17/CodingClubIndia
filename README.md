@@ -4,6 +4,11 @@ CodingClubIndia Hacktoberfest2019
 This repository is to Kickstart Open Source and promote Hacktoberfest2019.
 
 Pl. add your names beneath this line.
+
+Note
+----
+Guys, first wait for your pull request to be merged here and then proceed with your subsequent PRs,
+otherwise all your commits would be concatenated into a single PR.  
  
  ---------------------------------------------------------------------------------
 SAI TARUN PALAKULA(Andhra Pradesh)
